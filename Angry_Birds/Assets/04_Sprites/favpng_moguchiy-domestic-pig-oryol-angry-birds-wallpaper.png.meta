@@ -1,0 +1,2204 @@
+fileFormatVersion: 2
+guid: 92dfd9e2a168cfe40a69a8d4a3b78d00
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f217d02a7af341a5d1b1e70b2ad40
+      internalID: -393729060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 645
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d02a8d7dcd19f49ad822a2199ab9c6
+      internalID: -615168284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 645
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1956833e073c748998f9189a28aa0d
+      internalID: -712678717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 698
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125fb21456b6e940af66d496b8e74f7
+      internalID: 746019636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 698
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57715728a432ed649ae7fc647f6748fc
+      internalID: 1391599913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 697
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08995e37a794b5549b28bb1498b88063
+      internalID: -1737756794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 698
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109b96b64cfc1640b18b9bfc1bd7716
+      internalID: -1343087305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 699
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85182c1d1d4be124b8f4022dc292aa03
+      internalID: 1368090666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 699
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ededc1d3d3c986345bfac2354446d51b
+      internalID: -1144652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 490
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d782fa731966419400032660020ef
+      internalID: 1440643853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 490
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02b3cf9884a5449940a4109f9477bf
+      internalID: -1338403074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 598
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943867a209a20a4da4a1298fd948aa3
+      internalID: 58567442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 599
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3de6d3df128f48919c4fbfc01b14b
+      internalID: 1351170265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 599
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17437ffbe9a8bc46949b9dfd980b525
+      internalID: -1270437423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 599
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c5f6ce7d450b349ace53d8f1496af2
+      internalID: -876684950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 600
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34350dc03ba634fa7bdb46fb8354cb
+      internalID: -777546384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 603
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb218c39be451cb4fbfbc8221817b853
+      internalID: 1407975007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_17
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 615
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6e4fdf8a6f4a48b85d4069d6aa84e
+      internalID: -1107129718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 567
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918e092642394a499cf58037f98f962
+      internalID: 1019657439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 499
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d189baa85a53344a82f5d8b72816bfe
+      internalID: 2036347933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 504
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8f5b3cc35a01478a570fe19a78735
+      internalID: 708586946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 506
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa852ab62f8c32045961d501f714c274
+      internalID: 243739198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 507
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb0f36a52888e4391a421474cd0629
+      internalID: -1969029855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 512
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575d06c3df51e142b107872ab928fa9
+      internalID: 2129874627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_24
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 513
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b1e0d6814f3ed4e8f5a75b5f114c51
+      internalID: -559084615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_25
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 513
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fde953cc5985f4289b7bda14785730
+      internalID: -2091951378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_26
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 532
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c87b056109be41bcdb3ab1f6cc039
+      internalID: -567206999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 535
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6fffc8477fa84e8c4ccac8283d411
+      internalID: 674250700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8070551c0d5d834fa815f8b23ea0cac
+      internalID: 214035652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f314ba6c9189ed4a9b5b27234455d95
+      internalID: 581075592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69335b521103f8a40882720e7143d726
+      internalID: -134169616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 335
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836bc393623b57438f7cda9ce36d7ea
+      internalID: 1940769673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 400
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87297a2f2db6adf48a53427aa2b2e2ee
+      internalID: -582290232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 409
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddf4bf18875fe43a1a368fd9164a0d
+      internalID: 2015972522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 420
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766d65a5d7f5d34797ef82de3c571f4
+      internalID: -1156261238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 421
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960d5e1ef1228e499e04e096b02f54a
+      internalID: 1088967989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 421
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c3bed417ce044ea85d0587fc6da57
+      internalID: -2064287173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_37
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 421
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa9804bda3b5547b8b7302044fee42
+      internalID: -266527106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_38
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 421
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c44192e7e8f8154c8ffe44db3ecd229
+      internalID: 1260877909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c68fd67d472b84e8a160417f51fd9b
+      internalID: 1538083610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 301
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e43c5cc3c130e41a6cd7b17d242053
+      internalID: 1966576913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 314
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ff425b6a086c40a3e9ea6ae2524b8
+      internalID: 413962530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_42
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 335
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735fe7fe667556f43849f4d08f3571f9
+      internalID: -2125372614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 337
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf0cd33f3c74242aac253d680d14a6
+      internalID: -1623904977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_44
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 341
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5b1f1096e29f4e99ee15170d2a4f6
+      internalID: 2045262777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 341
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db61be8565f1fce4c9cc770d6be90727
+      internalID: -772895579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_46
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 341
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60750ef311c53824cbdd2c4d226bfd78
+      internalID: 1654077057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 344
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5242fb4067c84fba13c798b03a8d7
+      internalID: -1229949878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 180
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e90ac70621bc74aa7a39e268533a88
+      internalID: 653001399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff09455a08a2af4d99cbfa5f3107a54
+      internalID: -480285973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 204
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d90954075f7864ca061a2101f641a7
+      internalID: 1917741707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 219
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a52633201448446a83d2fcec8b9e1c
+      internalID: -404938169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 250
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba71156c86733c478d3e15af6493749
+      internalID: 10560392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 277
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b9a9a4c2b7b14da8623e3909c9ab6
+      internalID: 1491747807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37a01ed07a6464e92d5194b88927d0
+      internalID: 1526324162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 265
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92211bc5fe9408d418ec0b150c5065a8
+      internalID: 1144375639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_56
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 267
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa17f548f17fbe4ea99239d66d3a6aa
+      internalID: 1352715404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_57
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 268
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4d0ca760574f4096325dc58d45d6e
+      internalID: -836013831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 167
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc802138efc1ba48b4e6cf448f26946
+      internalID: 1545388600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_59
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 221
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734b468d46aefe64d99392291757ae73
+      internalID: 707617815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 189
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeba8c9064a2a34798101438ebc460b
+      internalID: 1018147917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_61
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 191
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073fc661bf36b846a6abb351c0c2cd9
+      internalID: -591810372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_62
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 191
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b7316cc441b342a40000411fb69e8
+      internalID: -1049768320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_63
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 217
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9dfb386b4a3d14393107fc2428386d
+      internalID: -2001635739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7627069e0d15fa41a8b0cdfe5042e13
+      internalID: 1384833138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 54
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42b3f949dd1c64b98988e3ef514d95
+      internalID: 831158005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 85
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0cb8c140b0b6409b70dd0cd6914ff
+      internalID: -2004436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9656d2c4a55fc4599352f3eca88a07
+      internalID: -1794441018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 124
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111814cb6a2de2d41bf7597cafbc3c20
+      internalID: -1281353012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 165
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0d66ca57c2834e8309c82316a1c62
+      internalID: 1744861745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_70
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 113
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca13b353de94064695ae47005c899da
+      internalID: 895057883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_71
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 118
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf9e6d890c4b54582a4a0a11f527b3
+      internalID: 541318375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_72
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 143
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbbdf71aff601d4d90b32f95304dd4f
+      internalID: -184210575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_73
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 143
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d9a8964b738c48aa83f079352ff5a
+      internalID: 139278883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_74
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 143
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd922da687190740838a8a2bced5705
+      internalID: -1215473269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_75
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 29
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1396e07091548f74faf0a0c6b1a8c930
+      internalID: -1417867676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_76
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 84
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563f3f012ee5eee4f94c3d1b0c74d616
+      internalID: -1287431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 109
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722aa6830416d2d45a99cdf72a0b5124
+      internalID: 1162499504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_78
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 37
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf91b51c95fe1a54482af59eaf1c3d26
+      internalID: -1209274901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437fbf863cb7d04bb401fb3b18a7398
+      internalID: 1766341493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_80
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 95
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6197f1b5fc2e2429a1b21156e24228
+      internalID: 256678567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_81
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 96
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc789fafcc19e4c48b2870e8db917bb4
+      internalID: -1955605643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_82
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 96
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0907db5b561c949a9dc7b071e6ff31
+      internalID: 760880024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95365362cacb34b9bd66d66d547a0b
+      internalID: 1370671188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 13
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89680091265652644ab515809d8aa4fe
+      internalID: 823317479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1642b7e5dbc8249962d80da095f456
+      internalID: 1594270165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_86
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 54
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e62a0e80ae2faf4d9ac13e4f99b3b39
+      internalID: 1964007334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_87
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 10
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7080883edb1c2d448160e29bce71230
+      internalID: 1885201058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_88
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 48
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9611b8e7a795364e91c7278f326d4a3
+      internalID: -58611416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_89
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 49
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465833eaa63e4f74dbe1d52c800aed46
+      internalID: 1505901463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_90
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 52
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24d4773ec52fb4495837f10a55b0e1
+      internalID: -315071985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 6
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd523e737e2a9664abfef47091dbc60c
+      internalID: -1627384747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_92
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f72a010fa4a34b91c5dfd39b30f67
+      internalID: 1901167339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_93
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7513042cce15e7d4c84e822defdc88fa
+      internalID: 452942613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_94
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 8
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167363e7fa4b6e4db4cf4667d1ed2b1
+      internalID: -437622185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_0: -393729060
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_1: -615168284
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_10: -1338403074
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_11: 58567442
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_12: 1351170265
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_13: -1270437423
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_14: -876684950
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_15: -777546384
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_16: 1407975007
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_17: -1107129718
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_18: 1019657439
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_19: 2036347933
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_2: -712678717
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_20: 708586946
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_21: 243739198
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_22: -1969029855
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_23: 2129874627
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_24: -559084615
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_25: -2091951378
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_26: -567206999
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_27: 674250700
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_28: 214035652
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_29: 581075592
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_3: 746019636
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_30: -134169616
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_31: 1940769673
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_32: -582290232
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_33: 2015972522
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_34: -1156261238
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_35: 1088967989
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_36: -2064287173
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_37: -266527106
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_38: 1260877909
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_39: 1538083610
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_4: 1391599913
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_40: 1966576913
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_41: 413962530
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_42: -2125372614
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_43: -1623904977
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_44: 2045262777
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_45: -772895579
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_46: 1654077057
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_47: -1229949878
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_48: 653001399
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_49: -480285973
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_5: -1737756794
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_50: 1917741707
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_51: -404938169
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_52: 10560392
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_53: 1491747807
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_54: 1526324162
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_55: 1144375639
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_56: 1352715404
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_57: -836013831
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_58: 1545388600
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_59: 707617815
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_6: -1343087305
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_60: 1018147917
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_61: -591810372
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_62: -1049768320
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_63: -2001635739
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_64: 1384833138
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_65: 831158005
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_66: -2004436236
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_67: -1794441018
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_68: -1281353012
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_69: 1744861745
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_7: 1368090666
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_70: 895057883
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_71: 541318375
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_72: -184210575
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_73: 139278883
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_74: -1215473269
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_75: -1417867676
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_76: -1287431720
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_77: 1162499504
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_78: -1209274901
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_79: 1766341493
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_8: -1144652090
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_80: 256678567
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_81: -1955605643
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_82: 760880024
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_83: 1370671188
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_84: 823317479
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_85: 1594270165
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_86: 1964007334
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_87: 1885201058
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_88: -58611416
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_89: 1505901463
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_9: 1440643853
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_90: -315071985
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_91: -1627384747
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_92: 1901167339
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_93: 452942613
+      favpng_moguchiy-domestic-pig-oryol-angry-birds-wallpaper_94: -437622185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
